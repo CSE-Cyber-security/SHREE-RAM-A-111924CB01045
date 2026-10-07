@@ -1,0 +1,22 @@
+[
+    {
+        "asset_id": "A103",
+        "asset_name": "Core-Router",
+        "asset_type": "Router",
+        "ip_address": "192.168.1.1",
+        "os": "Cisco IOS",
+        "department": "Network",
+        "risk_level": "High",
+        "security_status": "Warning"
+    },
+    {
+        "asset_id": "A101",
+        "asset_name": "HR-PC-101",
+        "asset_type": "Workstation",
+        "ip_address": "192.168.1.10",
+        "os": "MacOS",
+        "department": "IT",
+        "risk_level": "Medium",
+        "security_status": "Secure"
+    }
+]
